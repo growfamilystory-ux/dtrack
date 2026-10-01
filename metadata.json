@@ -1,0 +1,6 @@
+{
+  "name": "D-TRACK – Dashboard Tracking Bed & Patient Movement",
+  "description": "Sistem kendali digital monitoring ketersediaan tempat tidur, mutasi pasien, rekonsiliasi 3-shift, alert kapasitas dan indikator pelayanan rumah sakit (SIMUTASIS).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
